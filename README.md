@@ -145,7 +145,7 @@ pip install transformers torch langdetect scikit-learn pandas numpy \
 
 ## 🔗 Related
 
-**Pipeline repo**: [`llm-license-plate-moderation`](https://github.com/bushramaryam/llm-license-plate-moderation) — the GPT classification pipeline that produced the results this repo evaluates.
+**Pipeline repo**: [`llm-license-plate-moderation`](https://github.com/BushraMaryam/LLM-License-Plate-Moderation-System) — the GPT classification pipeline that produced the results this repo evaluates.
 
 ---
 
